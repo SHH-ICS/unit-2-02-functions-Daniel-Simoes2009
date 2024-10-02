@@ -2,4 +2,6 @@
 # Task:  Use the function myFunction to output a simple "Hello World!" statement
 
 def myFunction():
-  # My Function
+ print(Hello)
+username = "Daniel"
+print(username)
